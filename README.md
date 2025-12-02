@@ -7,7 +7,7 @@ The project focuses on clean UI, fast loading, and modern layout practices.
 
 # Live Demo
 
-Experience the live website: [MyBike]()
+Experience the live website: [MyBike](https://bohdan-diatliuk.github.io/MyBike-landing_page/)
 
 
 
