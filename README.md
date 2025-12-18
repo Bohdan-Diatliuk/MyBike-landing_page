@@ -38,8 +38,11 @@ Experience the live website: [MyBike](https://bohdan-diatliuk.github.io/MyBike-l
 ###  Development & Deployment
 
 • npm scripts for SCSS compilation
+
 • Git & GitHub for version control
+
 • Live Server for local development
+
 • GitHub Pages for deployment
 
 # Getting Started
